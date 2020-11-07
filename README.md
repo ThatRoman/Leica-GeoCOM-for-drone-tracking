@@ -1,4 +1,4 @@
-# This is a clone
+# This is a fork
 
 # Development of a guidance and automatic positioning system for builder drones with a total station
 
